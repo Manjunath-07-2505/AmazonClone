@@ -1,5 +1,42 @@
-# Getting Started with Create React App
 
+# 🛒 Amazon Clone – Frontend Project
+
+This is a simple **Amazon Clone** built using **HTML, CSS, JavaScript, and React**.  
+The goal of this project is to practice frontend development, UI layout, and responsive design by recreating the basic look and feel of the Amazon homepage.
+
+---
+
+## 🚀 Features
+
+- 🏠 **Amazon-style Homepage**
+  - Top navigation bar with logo, search bar, and navigation links
+  - Banner section similar to Amazon
+  - Product cards with images, titles, prices, and buttons
+
+- 📦 **Product Sections**
+  - Multiple product category sections (like electronics, fashion, etc.)
+  - Hover effects for better user experience
+
+- 📱 **Responsive Design**
+  - Layout adjusts for desktop and basic mobile view
+  - Flexbox and/or CSS Grid for alignment
+
+- ⚙️ **Interactive UI (JavaScript + React)**
+  - Basic state handling using React
+  - Clickable buttons (like “Add to Cart” UI behavior – optional)
+  - Reusable components for navbar, banner, and product cards
+
+---
+
+## 🧰 Tech Stack
+
+- **HTML5** – Structure of the web pages  
+- **CSS3** – Styling, layout, and responsive design  
+- **JavaScript (ES6+)** – Basic interactivity and logic  
+- **React.js** – Component-based UI and dynamic rendering  
+
+---
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -39,27 +76,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
 
