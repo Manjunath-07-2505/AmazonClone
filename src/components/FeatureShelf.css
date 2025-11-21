@@ -1,0 +1,34 @@
+.featureShelf {
+  background: #fff;
+  border-radius: 1rem;
+  padding: 1.5rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  align-items: center;
+}
+
+.featureShelf h3 {
+  margin-top: 0;
+}
+
+.featureShelf ul {
+  margin: 0 0 1rem;
+  padding-left: 1.2rem;
+  color: #565959;
+}
+
+.featureShelf button {
+  background-color: #ffd814;
+  border: none;
+  padding: 0.6rem 1.5rem;
+  border-radius: 999px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.featureShelf img {
+  width: 100%;
+  border-radius: 0.8rem;
+}
+

@@ -1,0 +1,20 @@
+:root {
+  font-family: 'Amazon Ember', 'Segoe UI', Helvetica, Arial, sans-serif;
+  color: #0f1111;
+  background-color: #e3e6e6;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+button,
+input {
+  font-family: inherit;
+}

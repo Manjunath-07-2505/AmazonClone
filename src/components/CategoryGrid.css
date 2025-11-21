@@ -1,0 +1,42 @@
+.categoryGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+}
+
+.categoryGrid article {
+  background: #fff;
+  border-radius: 0.8rem;
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  box-shadow: 0 10px 25px -18px rgba(15, 17, 17, 0.8);
+}
+
+.categoryGrid h3 {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+.categoryGrid p {
+  color: #565959;
+  font-size: 0.95rem;
+  margin: 0;
+}
+
+.categoryGrid img {
+  width: 100%;
+  border-radius: 0.6rem;
+}
+
+.categoryGrid button {
+  align-self: flex-start;
+  background: none;
+  border: none;
+  color: #007185;
+  font-weight: 600;
+  cursor: pointer;
+  padding: 0;
+}
+
